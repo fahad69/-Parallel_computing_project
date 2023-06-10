@@ -33,9 +33,4 @@ The master process and each mapper or reducer will print informative messages du
 - The master process will inform the user when the entire job has been completed.
 - The master process will compare the matrix multiplication output with the output of the serial matrix multiplication program and print if the two outputs are the same or not.
 
-Refer to Figure 2 in the project description for a sample output.
-
-## Note
-
-The use of a Beowulf Cluster is mandatory for this project. Ensure that the machine names printed by each process clearly indicate that the program is executing on multiple machines. Failure to demonstrate the project using a Beowulf Cluster will result in a score of 0.
 
